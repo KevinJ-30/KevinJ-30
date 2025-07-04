@@ -1,4 +1,4 @@
-# Kevin Jacob
+# Kevin Jacob - Hey there! I'm Kevin feel free to connect and check out my projects below!
 
 > CS @ Georgia Tech • AI Research • Building accessible tech
 
