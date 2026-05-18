@@ -7,7 +7,7 @@
 **ML Research** @ GSU Assistive Intelligence Lab  
 Developing noise-robust annotator embeddings for subjective NLP tasks
 
-**Software Engineering** @ Vantaca + HOAi  
+**Software Engineering** @ Apple  
 Building LangGraph agents and scalable ML pipelines
 
 | Project | Tech | Description |
